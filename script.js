@@ -55,7 +55,7 @@ const songs =[
     {
         name: 'I dont care',
         displayName: "I Don't Care",
-        artist: 'Shankar–Ehsaan–Loy',
+        artist: 'Justin Bieber & Ed Sheeran',
     },
     {
         name: 'laal bindi',
