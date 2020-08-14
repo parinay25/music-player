@@ -14,7 +14,7 @@ const nextBtn = document.getElementById('next');
 const songs =[
     {
         name: 'Nuvvunte Naa Jathagaa (Reprise)',
-        displayName: 'Nuvvunte Naa Jathagaa (Reprise)',
+        displayName: 'Nuvvunte Naa Jathagaa',
         artist: 'A.R. Rahman, Issrath Quadhri, Sid Sriram',
     },
     {
@@ -54,7 +54,7 @@ const songs =[
     },
     {
         name: 'I dont care',
-        displayName: "Ed Sheeran & Justin Bieber - I Don't Care",
+        displayName: "I Don't Care",
         artist: 'Shankar–Ehsaan–Loy',
     },
     {
@@ -79,7 +79,7 @@ const songs =[
     },
     {
         name: 'chali gali chudu',
-        displayName: "Chali Gaali Chuuduu - Gentleman",
+        displayName: "Chali Gaali Chuuduu",
         artist: 'Haricharan, Padmalatha, Malavika (U.S)',
     },
     {
